@@ -1,6 +1,6 @@
 # CipherWord
 
-TODO: Write a gem description
+Decipher and converted to Caesar cipher
 
 ## Installation
 
@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+cipher : Convert Caesar cipher arguments
+decoding : Decipher the Caesar cipher
 
 ## Contributing
 
