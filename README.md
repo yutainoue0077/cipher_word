@@ -20,8 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-cipher : Convert Caesar cipher arguments
-decoding : Decipher the Caesar cipher
+```ruby
+CipherWord.cipher 'yutainoue' => "zvubjopvf"
+CipherWord.decoding 'zvubjopvf' => "yutainoue"
+```
 
 ## Contributing
 
