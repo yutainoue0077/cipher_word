@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["yutainoue009@gmail.com"]
   spec.summary       = %q{For decryption and encryption of the word}
   spec.description   = %q{For decryption and encryption of the word}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/yutainoue0077/cipher_word"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
