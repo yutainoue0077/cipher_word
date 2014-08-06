@@ -7,7 +7,7 @@ module CipherWord
     (0...a).each { |i|
       word_b = word[i].ord
       word_b += 1
-      word_a += word_b.chr
+      word_a += word_b.chr Encoding::UTF_8
     }
     word_a
   end
@@ -18,7 +18,7 @@ module CipherWord
     (0...a).each { |i|
       word_b = word[i].ord
       word_b -= 1
-      word_a += word_b.chr
+      word_a += word_b.chr Encoding::UTF_8
     }
     word_a
   end
