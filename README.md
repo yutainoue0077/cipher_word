@@ -21,8 +21,8 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-CipherWord.cipher 'yutainoue' => "zvubjopvf"
-CipherWord.decoding 'zvubjopvf' => "yutainoue"
+CipherWord.cipher 'yutainoue' # => "zvubjopvf"
+CipherWord.decoding 'zvubjopvf' # => "yutainoue"
 ```
 
 ## Contributing
