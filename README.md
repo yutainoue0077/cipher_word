@@ -1,4 +1,5 @@
 # CipherWord
+[![Gem Version](https://badge.fury.io/rb/cipher_word.svg)](http://badge.fury.io/rb/cipher_word)
 
 Decipher and converted to Caesar cipher
 
